@@ -1,0 +1,3 @@
+basic-pitch
+basic-pitch[tf]
+basic-pitch[onnx]
