@@ -1,3 +1,5 @@
 basic-pitch
 basic-pitch[tf]
 basic-pitch[onnx]
+demucs
+midiutil
